@@ -1,0 +1,28 @@
+[Fri Jun 13 10:45:07 2025
+] erza: 20 | Dealer: 18 → Victory | Solde: 120 tokens
+[Fri Jun 13 10:45:07 2025
+] grey: 18 | Dealer: 18 → Tie | Solde: 100 tokens
+[Fri Jun 13 10:45:07 2025
+] zelef: 20 | Dealer: 18 → Victory | Solde: 180 tokens
+[Fri Jun 13 10:45:07 2025
+] gajil: 20 | Dealer: 18 → Victory | Solde: 150 tokens
+[Fri Jun 13 10:47:02 2025
+] erza: 16 | Dealer: 17 → Defeat | Solde: 50 tokens
+[Fri Jun 13 10:47:02 2025
+] grey: 20 | Dealer: 17 → Victory | Solde: 180 tokens
+[Fri Jun 13 10:47:02 2025
+] zelef: 23 | Dealer: 17 → Defeat | Solde: 0 tokens
+[Fri Jun 13 10:47:02 2025
+] gajil: 22 | Dealer: 17 → Defeat | Solde: 10 tokens
+[Fri Jun 13 10:47:59 2025
+] erza: 23 | Dealer: 20 → Defeat | Solde: 80 tokens
+[Fri Jun 13 10:47:59 2025
+] grey: 15 | Dealer: 20 → Defeat | Solde: 20 tokens
+[Fri Jun 13 10:47:59 2025
+] gajil: 23 | Dealer: 20 → Defeat | Solde: 95 tokens
+[Fri Jun 13 10:48:44 2025
+] erza: 15 | Dealer: 18 → Defeat | Solde: 60 tokens
+[Fri Jun 13 10:48:44 2025
+] grey: 19 | Dealer: 18 → Victory | Solde: 110 tokens
+[Fri Jun 13 10:48:44 2025
+] gajil: 14 | Dealer: 18 → Defeat | Solde: 40 tokens
